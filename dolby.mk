@@ -5,6 +5,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+PRODUCT_CHECK_PREBUILT_MAX_PAGE_SIZE := false
+
 # Dolby path
 DOLBY_PATH := hardware/dolby
 
