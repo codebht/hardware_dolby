@@ -1,6 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from Motorola Moto g57 power (mumba) (16 WWAAS36V.48-12-ST12.1-5b6d8).
-## variant: RETCN
+## are from Motorola Moto g57 power (mumba) (17 A171WAAH.31-9-4).
 
 # Dolby
 vendor/bin/hw/vendor.dolby.dms.service
@@ -29,6 +28,6 @@ vendor/lib64/libdapparamstorage.so
 vendor/lib64/soundfx/libdlbvolaidl.so;DISABLE_DEPS
 vendor/lib64/soundfx/libswdapaidl.so;DISABLE_DEPS
 vendor/lib64/soundfx/libswgamedapaidl.so;DISABLE_DEPS
-vendor/lib64/soundfx/libswspatializeraidl.so;DISABLE_DEPS
-vendor/lib64/libspatializerparamstorage.so
+-vendor/lib64/soundfx/libswspatializeraidl.so;DISABLE_DEPS|9db293a7f465df4b4e7081a8a31dededa4c2fa64
+-vendor/lib64/libspatializerparamstorage.so|05fd3fda9d6fd165a5ecdddc302f68bb5fc4ab4d
 vendor/etc/media_codecs_dolby_audio.xml
